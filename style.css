@@ -1,0 +1,48 @@
+/*-----Buenas prácticas-----
+ 1. Las etiquetas son selectores por sí mismos
+ 2. Las etiquetas con class para los elementos que se utilizan seguido
+ 3. Los id para los objetos que se usan sólo una vez
+*/
+
+/*----Estilos etiquetas-----*/
+h1{
+
+}
+
+h2{
+
+}
+
+h3{
+
+}
+
+nav{
+
+}
+button{
+
+}
+
+footer{
+
+}
+
+/*-----Estilos class*/
+.box{
+
+}
+
+/*-----Estilos id-----*/
+
+#logo{
+
+}
+
+#about{
+
+}
+
+#recomendados{
+
+}
