@@ -6,8 +6,6 @@
 + Testing de software (Q/A)
 + Testing de accesibilidad (WACG)
 # Equipos de estudio (orden cronológico descendente):
-* Equipo Lógica de Programación (ONE-Alura). **Tutor** [Mauricio Santiago](https://www.linkedin.com/in/mauriciosantiago/). **
-
-Equipo Frontend (Codo a Codo-Buenos Aires Aprende): Juan Pablo Maciel, Andrea Miérez, Alicia López. Objetivo: Mostrar indicios de aprendizaje sobre HTML, CSS y JavaScript
-
-Equipo IU/UX (Inclúyeme): Irma López Quiroga, Vanessa González, Helga Novelo Trujillo, Roxana Reveco y Alicia López. Objetivo Mostrar indicios de aprendizaje sobre Design Thinking para un prototipo centrado en la experiencia del usuario.
+* Equipo Lógica de Programación (ONE-Alura). **Tutor** [Mauricio Santiago](https://www.linkedin.com/in/mauriciosantiago/).**Colegas**: [Jhony Rodriguez Melendez](https://www.linkedin.com/in/jhonyrm/) y [José Abraham Sosa Chávez](https://www.linkedin.com/in/abrahamsosa-gis/)
+* Equipo Fullstack con Pyton (Codo a Codo-Buenos Aires Aprende): **Tutor**: [Christian Toledo](https://www.linkedin.com/in/christianarieltoledo/). **Colegas**: [Juan Pablo Leoz](https://www.linkedin.com/in/juampi-leoz/), [Catalina Borda](https://www.linkedin.com/in/catalina-borda-b62a412b7/) y [Alicia Dri](https://www.linkedin.com/in/alicia-dri-93807ba5/)
+* Equipo Diseño IU/UX (Inclúyeme-UTN).**Tutor**: [Paola Fratícola](https://www.linkedin.com/in/dgpaofraticola/). **Colegas**: [Irma López Quiroga](https://www.linkedin.com/in/irma-lópez-quiroga-a0995565/), Vanessa González, [Helga Novelo Trujillo](https://www.linkedin.com/in/helganovtru/) y Roxana Reveco.
